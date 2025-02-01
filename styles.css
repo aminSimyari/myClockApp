@@ -1,0 +1,9 @@
+html {
+    background: #018ded url(/Clock/bc86bf81fc8d9ecf339d55cb24d37004.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: "helvetica neue";
+    text-align: center;
+    font-size: 10px;
+  }
